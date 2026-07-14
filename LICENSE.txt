@@ -1,0 +1,12 @@
+END-USER LICENSE AGREEMENT (EULA)
+================================
+
+Please read the following terms and conditions carefully before installing or using this software.
+
+1. LICENSE GRANT: The Author grants you a personal, non-transferable, non-exclusive license to use the File Monitor software on your personal or company machines.
+
+2. RESTRICTIONS: You shall not decompile, reverse engineer, or disassemble the binary executable for malicious purposes.
+
+3. NO WARRANTY: The software is provided "AS IS", without warranty of any kind, express or implied. In no event shall the authors be liable for any claim, damages or other liability.
+
+4. USER CONSENT: By selecting "I accept the agreement" and installing this software, you agree to these terms.

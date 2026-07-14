@@ -1,0 +1,18 @@
+# PyInstaller / Build outputs (Do not upload to Git)
+build/
+dist/
+*.spec
+Output/
+
+# Python cache & compiler files (Do not upload to Git)
+__pycache__/
+files/__pycache__/
+*.pyc
+
+# Local application database & zip (Do not upload to Git)
+history.db
+files.zip
+
+# Windows temp / system files
+Thumbs.db
+Desktop.ini
